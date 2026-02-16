@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Lit Games HW 5 \"Objectians\""
+config/name="LitGames-HW6"
 run/main_scene="res://Scenes/demo_scene.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
 boot_splash/bg_color=Color(1, 1, 1, 1)
